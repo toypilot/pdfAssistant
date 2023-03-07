@@ -1,4 +1,4 @@
-# pdfjs-viewer
+# pdfjs-viewer with Vue
 
 ## Project setup
 ```
