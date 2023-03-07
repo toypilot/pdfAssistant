@@ -7,10 +7,14 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "babel-loader": "^9.1.2",
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "pdfjs-dist": "^3.4.120",
+    "vue": "^3.2.13",
+    "worker-loader": "^3.0.8"
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-methods": "^7.18.6",
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-service": "~5.0.0"
   },
